@@ -1,5 +1,9 @@
 # Workforce Attrition Analytics for Operational Risk
 
+📄 **Executive Summary:**  
+[Download the executive summary (PDF)](executive_summary.pdf)
+
+
 ## Business Problem
 Operational performance in logistics and supply chain environments is
 highly dependent on skilled labor availability. High attrition among
